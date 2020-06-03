@@ -4,6 +4,7 @@
       alt="Direct apk download"
       height="130">](https://gitlab.com/asdoi/colorrush/-/raw/master/Apk/ColoRush.apk)
 
+### Source code here: https://gitlab.com/asdoi/colorrush
 
 A little game made with unity. You're a ball and must have the right color to get over some barriers.<br>
 There are five different modes. In three of them you have to choose the right color to get over the barrier with three buttons (red, yellow, blue).
